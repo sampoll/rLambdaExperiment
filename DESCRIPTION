@@ -1,0 +1,9 @@
+Package: rLambdaExperiment
+Title: Experimental package that runs a AWS Lambda function
+Version: 0.0.0.9000
+Authors@R: person("Sam", "Pollack", email = "spollack@jimmy.harvard.edu", role = c("aut", "cre"))
+Description: Runs a AWS Lambda function. Parses input and output.
+Depends: R (>= 3.5.0)
+Encoding: UTF-8
+LazyData: true
+Imports: reticulate

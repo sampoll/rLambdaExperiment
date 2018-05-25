@@ -1,0 +1,7 @@
+{ 
+  "domain" : "testfile.testdir.testh5serv.org", 
+  "endpoint" : "http://54.161.81.209:5000", 
+  "path" : "grp2/grp2b/data3",
+  "indices" : "4:5:1,4:5:1,0:60:1"
+}
+
